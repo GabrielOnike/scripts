@@ -1,3 +1,12 @@
+README
+Procedural Python script:
+- reads data from wikipedia page using wikipedia package
+- cleans file data and saves as .txt in root
+- further cleans file data, uses function to get words and frequency and saves to .csv file
+- analyzes .csv file to create wordcloud using wordcloud library
+- creates histogram using MatPlotLib
+
+<!-- 
 RESOURCES
 
 - https://www.geeksforgeeks.org/python-pandas-dataframe-describe-method/
@@ -12,3 +21,5 @@ RESOURCES
 - https://pythonguides.com/python-dictionary-to-csv/
 - https://www.w3resource.com/python-exercises/string/python-data-type-string-exercise-12.php
 - https://jupyter.org/try-jupyter/lab/
+
+-->
